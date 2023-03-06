@@ -1,8 +1,6 @@
 # 2022-CUAI-Winter-Conference
 
-# 2022-CUAI-Summer-Conference
-
-![쿠아이 컨퍼런스 사진](![winter conf](https://user-images.githubusercontent.com/48724872/223233664-fea79e9f-9a29-4c14-80c4-7d94d803673e.jpg)
+![winter conf](https://user-images.githubusercontent.com/48724872/223233664-fea79e9f-9a29-4c14-80c4-7d94d803673e.jpg)
 
 ### 본선 일정
 23.02.14(화) 19:00 : 2022년 CUAI 동계 컨퍼런스 본선
