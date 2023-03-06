@@ -20,4 +20,4 @@
 |Team NLP|🏆브로카 실어증 치료를 위한 서비스 구현|[Link]()|[pdf]()|[Youtube]()|[Poster]()|
 |Team DA 2|🥉CNN기반 한국어 유아 손글씨 OCR 모델 연구|[Link]()|[pdf]()|[Youtube]()|[Poster]()|
 |Team CV 2|🥉 YOLOv5 기반 밀집도 추정|[Link]()|[pdf]()|[Youtube]()|[Poster]()|
-|Team Recsys|🥈문서 이미지 기반 QA 모델|[Link]()|[Youtube]()|[Poster]()|
+|Team Recsys|🥈문서 이미지 기반 QA 모델|[Link]()|[pdf]()|[Youtube]()|[Poster]()|
